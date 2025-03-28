@@ -2,10 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurmarquesdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&bg_color=0d1117&title_color=ff2e4d&icon_color=ff2e4d&text_color=ffffff&border_color=1a1a1a&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurmarquesdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&bg_color=0d1117&title_color=ff2e4d&text_color=ffffff&border_color=1a1a1a&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
 
