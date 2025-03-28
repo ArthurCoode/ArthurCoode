@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJtY3R5b3Q1eGx1Z3JjZ2R4dW5xY3R4eGJ6dGZqZzV0eGZ2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xoi6nNqJQJ95Qc/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/u6DUcQbPPRHUAwe2tg/giphy.gif?cid=ecf05e47y34flj5joe67qaput134796wl7mt6jhqwvwq0xin&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 
@@ -32,23 +32,14 @@
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@arthurmarquesdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/arthurmarquesdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://twitch.tv/arthurmarquesdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.gg/yourdiscord" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
   <a href="mailto:seuemail@example.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://linkedin.com/in/arthurmarquesdev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/arthurmarquesdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
@@ -56,8 +47,8 @@
 
 <br clear="both">
 
-<!-- Snake animation - Versão corrigida -->
-![Snake animation](https://github.com/arthurmarquesdev/arthurmarquesdev/blob/output/github-contribution-grid-snake.svg)
+<!-- Snake animation -->
+![Snake animation](https://github.com/platane/platane/raw/output/github-contribution-grid-snake.svg)
 
 ###
 
