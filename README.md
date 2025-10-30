@@ -52,6 +52,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/arthurmarquesdev/count.svg?"  />
-</div>
