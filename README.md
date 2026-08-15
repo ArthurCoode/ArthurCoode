@@ -71,12 +71,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurcoode&show_icons=true&locale=en&theme=dark&bg_color=0d1117&title_color=ff2e4d&icon_color=ff2e4d&text_color=ffffff&border_color=1a1a1a&hide_border=false" height="170" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurcoode&theme=dark&hide_border=false&background=0d1117&stroke=1a1a1a&ring=ff2e4d&fire=ff2e4d&currStreakLabel=ffffff" height="170" alt="streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurcoode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&bg_color=0d1117&title_color=ff2e4d&text_color=ffffff&border_color=1a1a1a&hide_border=false" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArthurCoode&show_icons=true&locale=en&theme=dark&bg_color=0d1117&title_color=ff2e4d&icon_color=ff2e4d&text_color=ffffff&border_color=1a1a1a&hide_border=false&cache_seconds=86400" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurCoode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&bg_color=0d1117&title_color=ff2e4d&text_color=ffffff&border_color=1a1a1a&hide_border=false&cache_seconds=86400" height="170" alt="languages graph" />
 </div>
 
 <br>
@@ -84,7 +80,7 @@
 ## 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arthurcoode&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArthurCoode&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1" alt="trophy" />
 </div>
 
 <br>
