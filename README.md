@@ -68,23 +68,6 @@
 
 <br>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArthurCoode&show_icons=true&locale=en&theme=dark&bg_color=0d1117&title_color=ff2e4d&icon_color=ff2e4d&text_color=ffffff&border_color=1a1a1a&hide_border=false&cache_seconds=86400" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArthurCoode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&bg_color=0d1117&title_color=ff2e4d&text_color=ffffff&border_color=1a1a1a&hide_border=false&cache_seconds=86400" height="170" alt="languages graph" />
-</div>
-
-<br>
-
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArthurCoode&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&row=1" alt="trophy" />
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://github.com/platane/platane/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
